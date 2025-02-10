@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.addieapp.com/">
-        <img src="https://images.squarespace-cdn.com/content/v1/62d5a9a7b847737a2480da1f/a0aecce6-fae4-4253-94ba-73a2104b8c92/Website.png?format=1500w" alt="Addie App Logo" width="35%">
+        <img src="https://hub.addieapp.com/static/media/logoLarge.4e3efe0ecb87ba198cd1.png" alt="Addie App Logo" width="35%">
     </a>
     <br /><br />
     <h3 align="center">Empowering ADHD Management Through Technology.</h3>
